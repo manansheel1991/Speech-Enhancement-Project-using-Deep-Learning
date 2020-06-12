@@ -21,4 +21,6 @@ The top waveform is for the enhanced sound. In the middle, is the original, and 
 
 The files must be run in the order in which their names are mentioned, and the workspace should not be cleaned after running each file.
 
+This repository is the first part of a large work project done by me.
+
 -Manan sheel.
